@@ -19,7 +19,7 @@ The festival was originally scheduled for 20 March 2020, and was postponed due t
 
 <strong>LINKS</strong>
 
-<a href="https://www.facebook.com/20plus20/"><img class="social" src="img/fb.png" alt="Facebook"/></a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/20plus20_fest/"><img class="social" src="img/ig.png" alt="Instagram"/></a>
+<a href="https://www.facebook.com/20plus21/"><img class="social" src="img/fb.png" alt="Facebook"/></a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/20plus21/"><img class="social" src="img/ig.png" alt="Instagram"/></a>
 
 <strong>PLAYLIST</strong>
 
@@ -40,7 +40,7 @@ O festival estava originalmente marcado para 20 de março de 2020 e foi adiado d
 
 <strong>LINKS</strong>
 
-<a href="https://www.facebook.com/20plus20/"><img class="social" src="img/fb.png" alt="Facebook"/></a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/20plus20_fest/"><img class="social" src="img/ig.png" alt="Instagram"/></a>
+<a href="https://www.facebook.com/20plus21/"><img class="social" src="img/fb.png" alt="Facebook"/></a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/20plus21/"><img class="social" src="img/ig.png" alt="Instagram"/></a>
 
 <strong>PLAYLIST</strong>
 
